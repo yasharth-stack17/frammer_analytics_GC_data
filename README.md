@@ -10,6 +10,3 @@ Backend API integration and comprehensive exploratory data analysis (EDA) for la
 * `/eda_notebooks`: Exploratory Data Analysis identifying publication conversion rates and operational bottlenecks.
 * `/api_backend`: FastAPI routing and schema validation for dynamic KPI generation.
 * `/dashboard`: Lightweight HTML/CSS interface for metric visualization.
-
-**🔒 Confidentiality Note:**
-Due to the proprietary nature of the client dataset (15K+ internal workflow records) and company IP guidelines, the actual data files and core production scripts have been omitted from this public repository.
